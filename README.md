@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**smyy22/smyy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there,I'm Sümeyye 👋
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align="center" width="30px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <ins> Who am I?</ins>
+
+
+- 🔭 I’m graduated from Gaziantep University
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: emresumeyye22@gmail.com
+
+### <ins>Connect With me</ins>
+
+
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/[linkedin].svg"/>][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/s%C3%BCmeyye-emre-4b24071a0/
