@@ -13,6 +13,6 @@
 ### <ins>Connect With me</ins>
 
 
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/[linkedin].svg"/>][linkedin]
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"/>][linkedin]
 
 [linkedin]:https://www.linkedin.com/in/s%C3%BCmeyye-emre-4b24071a0/
